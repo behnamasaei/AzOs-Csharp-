@@ -1,0 +1,13 @@
+C:\Users\behnam\Desktop\Assignment 2\AzOs-Python-\Assignment 4\TicTocToe\bin\Debug\netcoreapp3.1\TicTocToe.exe
+C:\Users\behnam\Desktop\Assignment 2\AzOs-Python-\Assignment 4\TicTocToe\bin\Debug\netcoreapp3.1\TicTocToe.deps.json
+C:\Users\behnam\Desktop\Assignment 2\AzOs-Python-\Assignment 4\TicTocToe\bin\Debug\netcoreapp3.1\TicTocToe.runtimeconfig.json
+C:\Users\behnam\Desktop\Assignment 2\AzOs-Python-\Assignment 4\TicTocToe\bin\Debug\netcoreapp3.1\TicTocToe.runtimeconfig.dev.json
+C:\Users\behnam\Desktop\Assignment 2\AzOs-Python-\Assignment 4\TicTocToe\bin\Debug\netcoreapp3.1\TicTocToe.dll
+C:\Users\behnam\Desktop\Assignment 2\AzOs-Python-\Assignment 4\TicTocToe\bin\Debug\netcoreapp3.1\TicTocToe.pdb
+C:\Users\behnam\Desktop\Assignment 2\AzOs-Python-\Assignment 4\TicTocToe\obj\Debug\netcoreapp3.1\TicTocToe.csprojAssemblyReference.cache
+C:\Users\behnam\Desktop\Assignment 2\AzOs-Python-\Assignment 4\TicTocToe\obj\Debug\netcoreapp3.1\TicTocToe.AssemblyInfoInputs.cache
+C:\Users\behnam\Desktop\Assignment 2\AzOs-Python-\Assignment 4\TicTocToe\obj\Debug\netcoreapp3.1\TicTocToe.AssemblyInfo.cs
+C:\Users\behnam\Desktop\Assignment 2\AzOs-Python-\Assignment 4\TicTocToe\obj\Debug\netcoreapp3.1\TicTocToe.csproj.CoreCompileInputs.cache
+C:\Users\behnam\Desktop\Assignment 2\AzOs-Python-\Assignment 4\TicTocToe\obj\Debug\netcoreapp3.1\TicTocToe.dll
+C:\Users\behnam\Desktop\Assignment 2\AzOs-Python-\Assignment 4\TicTocToe\obj\Debug\netcoreapp3.1\TicTocToe.pdb
+C:\Users\behnam\Desktop\Assignment 2\AzOs-Python-\Assignment 4\TicTocToe\obj\Debug\netcoreapp3.1\TicTocToe.genruntimeconfig.cache
