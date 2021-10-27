@@ -1,0 +1,13 @@
+C:\Users\behnam\Desktop\Assignment 2\AzOs-Python-\Assignment 4\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.exe
+C:\Users\behnam\Desktop\Assignment 2\AzOs-Python-\Assignment 4\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.deps.json
+C:\Users\behnam\Desktop\Assignment 2\AzOs-Python-\Assignment 4\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.runtimeconfig.json
+C:\Users\behnam\Desktop\Assignment 2\AzOs-Python-\Assignment 4\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.runtimeconfig.dev.json
+C:\Users\behnam\Desktop\Assignment 2\AzOs-Python-\Assignment 4\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.dll
+C:\Users\behnam\Desktop\Assignment 2\AzOs-Python-\Assignment 4\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.pdb
+C:\Users\behnam\Desktop\Assignment 2\AzOs-Python-\Assignment 4\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.csprojAssemblyReference.cache
+C:\Users\behnam\Desktop\Assignment 2\AzOs-Python-\Assignment 4\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\behnam\Desktop\Assignment 2\AzOs-Python-\Assignment 4\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.AssemblyInfo.cs
+C:\Users\behnam\Desktop\Assignment 2\AzOs-Python-\Assignment 4\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\behnam\Desktop\Assignment 2\AzOs-Python-\Assignment 4\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.dll
+C:\Users\behnam\Desktop\Assignment 2\AzOs-Python-\Assignment 4\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.pdb
+C:\Users\behnam\Desktop\Assignment 2\AzOs-Python-\Assignment 4\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.genruntimeconfig.cache

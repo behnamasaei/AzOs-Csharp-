@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTocToe", "TicTocToe\TicT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chess", "Chess\Chess.csproj", "{B9D65950-68F5-47AA-89EC-49A1AF191B42}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationTable", "MultiplicationTable\MultiplicationTable.csproj", "{52D1A491-6DC1-476B-9CD8-4D0731CFDE33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B9D65950-68F5-47AA-89EC-49A1AF191B42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9D65950-68F5-47AA-89EC-49A1AF191B42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9D65950-68F5-47AA-89EC-49A1AF191B42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52D1A491-6DC1-476B-9CD8-4D0731CFDE33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52D1A491-6DC1-476B-9CD8-4D0731CFDE33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52D1A491-6DC1-476B-9CD8-4D0731CFDE33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52D1A491-6DC1-476B-9CD8-4D0731CFDE33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
