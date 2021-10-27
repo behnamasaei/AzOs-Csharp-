@@ -1,0 +1,13 @@
+C:\Users\behnam\Desktop\Assignment 2\AzOs-Python-\Assignment 4\Fibo\bin\Debug\netcoreapp3.1\Fibo.exe
+C:\Users\behnam\Desktop\Assignment 2\AzOs-Python-\Assignment 4\Fibo\bin\Debug\netcoreapp3.1\Fibo.deps.json
+C:\Users\behnam\Desktop\Assignment 2\AzOs-Python-\Assignment 4\Fibo\bin\Debug\netcoreapp3.1\Fibo.runtimeconfig.json
+C:\Users\behnam\Desktop\Assignment 2\AzOs-Python-\Assignment 4\Fibo\bin\Debug\netcoreapp3.1\Fibo.runtimeconfig.dev.json
+C:\Users\behnam\Desktop\Assignment 2\AzOs-Python-\Assignment 4\Fibo\bin\Debug\netcoreapp3.1\Fibo.dll
+C:\Users\behnam\Desktop\Assignment 2\AzOs-Python-\Assignment 4\Fibo\bin\Debug\netcoreapp3.1\Fibo.pdb
+C:\Users\behnam\Desktop\Assignment 2\AzOs-Python-\Assignment 4\Fibo\obj\Debug\netcoreapp3.1\Fibo.csprojAssemblyReference.cache
+C:\Users\behnam\Desktop\Assignment 2\AzOs-Python-\Assignment 4\Fibo\obj\Debug\netcoreapp3.1\Fibo.AssemblyInfoInputs.cache
+C:\Users\behnam\Desktop\Assignment 2\AzOs-Python-\Assignment 4\Fibo\obj\Debug\netcoreapp3.1\Fibo.AssemblyInfo.cs
+C:\Users\behnam\Desktop\Assignment 2\AzOs-Python-\Assignment 4\Fibo\obj\Debug\netcoreapp3.1\Fibo.csproj.CoreCompileInputs.cache
+C:\Users\behnam\Desktop\Assignment 2\AzOs-Python-\Assignment 4\Fibo\obj\Debug\netcoreapp3.1\Fibo.dll
+C:\Users\behnam\Desktop\Assignment 2\AzOs-Python-\Assignment 4\Fibo\obj\Debug\netcoreapp3.1\Fibo.pdb
+C:\Users\behnam\Desktop\Assignment 2\AzOs-Python-\Assignment 4\Fibo\obj\Debug\netcoreapp3.1\Fibo.genruntimeconfig.cache
