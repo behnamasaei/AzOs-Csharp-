@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\behnam\\Desktop\\Assignment 2\\AzOs-Python-\\Assignment 4\\Chess\\Chess.csproj": {}
+    "C:\\Users\\behnam\\Source\\Repos\\AzOs-Python-\\Assignment 4\\Chess\\Chess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\behnam\\Desktop\\Assignment 2\\AzOs-Python-\\Assignment 4\\Chess\\Chess.csproj": {
+    "C:\\Users\\behnam\\Source\\Repos\\AzOs-Python-\\Assignment 4\\Chess\\Chess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\behnam\\Desktop\\Assignment 2\\AzOs-Python-\\Assignment 4\\Chess\\Chess.csproj",
+        "projectUniqueName": "C:\\Users\\behnam\\Source\\Repos\\AzOs-Python-\\Assignment 4\\Chess\\Chess.csproj",
         "projectName": "Chess",
-        "projectPath": "C:\\Users\\behnam\\Desktop\\Assignment 2\\AzOs-Python-\\Assignment 4\\Chess\\Chess.csproj",
+        "projectPath": "C:\\Users\\behnam\\Source\\Repos\\AzOs-Python-\\Assignment 4\\Chess\\Chess.csproj",
         "packagesPath": "C:\\Users\\behnam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\behnam\\Desktop\\Assignment 2\\AzOs-Python-\\Assignment 4\\Chess\\obj\\",
+        "outputPath": "C:\\Users\\behnam\\Source\\Repos\\AzOs-Python-\\Assignment 4\\Chess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

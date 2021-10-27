@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\behnam\\Desktop\\Assignment 2\\AzOs-Python-\\Assignment 4\\TicTocToe\\TicTocToe.csproj",
+      "projectUniqueName": "C:\\Users\\behnam\\Source\\Repos\\AzOs-Python-\\Assignment 4\\TicTocToe\\TicTocToe.csproj",
       "projectName": "TicTocToe",
-      "projectPath": "C:\\Users\\behnam\\Desktop\\Assignment 2\\AzOs-Python-\\Assignment 4\\TicTocToe\\TicTocToe.csproj",
+      "projectPath": "C:\\Users\\behnam\\Source\\Repos\\AzOs-Python-\\Assignment 4\\TicTocToe\\TicTocToe.csproj",
       "packagesPath": "C:\\Users\\behnam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\behnam\\Desktop\\Assignment 2\\AzOs-Python-\\Assignment 4\\TicTocToe\\obj\\",
+      "outputPath": "C:\\Users\\behnam\\Source\\Repos\\AzOs-Python-\\Assignment 4\\TicTocToe\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
