@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "T+Mv1P2ppZa/sXBb0B3rsYAeL+iljIKfnPmQtlkcAGgfdrgTpCKaMR/kUPLaZ6TgP/q5qNzDIGLP8m7b8/aB6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\behnam\\source\\repos\\AzOs-Python-\\Assignment 5\\Shop\\Shop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\behnam\\.nuget\\packages\\csvhelper\\27.1.1\\csvhelper.27.1.1.nupkg.sha512",
+    "C:\\Users\\behnam\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

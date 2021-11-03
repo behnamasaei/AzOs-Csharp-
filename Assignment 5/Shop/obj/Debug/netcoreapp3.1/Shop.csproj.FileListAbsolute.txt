@@ -1,0 +1,15 @@
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 5\Shop\bin\Debug\netcoreapp3.1\Shop.exe
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 5\Shop\bin\Debug\netcoreapp3.1\Shop.deps.json
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 5\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.json
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 5\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.dev.json
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 5\Shop\bin\Debug\netcoreapp3.1\Shop.dll
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 5\Shop\bin\Debug\netcoreapp3.1\Shop.pdb
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 5\Shop\obj\Debug\netcoreapp3.1\Shop.csprojAssemblyReference.cache
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 5\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfoInputs.cache
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 5\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfo.cs
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 5\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 5\Shop\obj\Debug\netcoreapp3.1\Shop.dll
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 5\Shop\obj\Debug\netcoreapp3.1\Shop.pdb
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 5\Shop\obj\Debug\netcoreapp3.1\Shop.genruntimeconfig.cache
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 5\Shop\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 5\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CopyComplete
