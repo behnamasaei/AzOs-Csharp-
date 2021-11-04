@@ -26,7 +26,7 @@ namespace Shop
                 $"4. Delete product\n" +
                 $"5. Search\n" +
                 $"6. Buy and Factor\n" +
-                $"7. Exit with saving");
+                $"7. Exit");
             int select = Convert.ToInt32(Console.ReadLine());
 
 
@@ -55,6 +55,10 @@ namespace Shop
                 case 6:
                     program.Buy();
                     break;
+
+                case 7:
+                    break;
+
                 default:
                     Main();
                     break;
