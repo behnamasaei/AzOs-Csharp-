@@ -1,0 +1,15 @@
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 7\Assignment 7\Marid\bin\Debug\net6.0\Marid.exe
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 7\Assignment 7\Marid\bin\Debug\net6.0\Marid.deps.json
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 7\Assignment 7\Marid\bin\Debug\net6.0\Marid.runtimeconfig.json
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 7\Assignment 7\Marid\bin\Debug\net6.0\Marid.dll
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 7\Assignment 7\Marid\bin\Debug\net6.0\ref\Marid.dll
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 7\Assignment 7\Marid\bin\Debug\net6.0\Marid.pdb
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 7\Assignment 7\Marid\obj\Debug\net6.0\Marid.csproj.AssemblyReference.cache
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 7\Assignment 7\Marid\obj\Debug\net6.0\Marid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 7\Assignment 7\Marid\obj\Debug\net6.0\Marid.AssemblyInfoInputs.cache
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 7\Assignment 7\Marid\obj\Debug\net6.0\Marid.AssemblyInfo.cs
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 7\Assignment 7\Marid\obj\Debug\net6.0\Marid.csproj.CoreCompileInputs.cache
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 7\Assignment 7\Marid\obj\Debug\net6.0\Marid.dll
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 7\Assignment 7\Marid\obj\Debug\net6.0\ref\Marid.dll
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 7\Assignment 7\Marid\obj\Debug\net6.0\Marid.pdb
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 7\Assignment 7\Marid\obj\Debug\net6.0\Marid.genruntimeconfig.cache

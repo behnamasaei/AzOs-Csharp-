@@ -1,0 +1,15 @@
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 7\Assignment 7\OOP-fraction\bin\Debug\net6.0\OOP-fraction.exe
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 7\Assignment 7\OOP-fraction\bin\Debug\net6.0\OOP-fraction.deps.json
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 7\Assignment 7\OOP-fraction\bin\Debug\net6.0\OOP-fraction.runtimeconfig.json
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 7\Assignment 7\OOP-fraction\bin\Debug\net6.0\OOP-fraction.dll
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 7\Assignment 7\OOP-fraction\bin\Debug\net6.0\ref\OOP-fraction.dll
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 7\Assignment 7\OOP-fraction\bin\Debug\net6.0\OOP-fraction.pdb
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 7\Assignment 7\OOP-fraction\obj\Debug\net6.0\OOP-fraction.csproj.AssemblyReference.cache
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 7\Assignment 7\OOP-fraction\obj\Debug\net6.0\OOP-fraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 7\Assignment 7\OOP-fraction\obj\Debug\net6.0\OOP-fraction.AssemblyInfoInputs.cache
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 7\Assignment 7\OOP-fraction\obj\Debug\net6.0\OOP-fraction.AssemblyInfo.cs
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 7\Assignment 7\OOP-fraction\obj\Debug\net6.0\OOP-fraction.csproj.CoreCompileInputs.cache
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 7\Assignment 7\OOP-fraction\obj\Debug\net6.0\OOP-fraction.dll
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 7\Assignment 7\OOP-fraction\obj\Debug\net6.0\ref\OOP-fraction.dll
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 7\Assignment 7\OOP-fraction\obj\Debug\net6.0\OOP-fraction.pdb
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 7\Assignment 7\OOP-fraction\obj\Debug\net6.0\OOP-fraction.genruntimeconfig.cache
