@@ -1,0 +1,4 @@
+run program.cs file
+-------------------
+
+install .net sdk then run program file by command "dotnet run" into cmd
