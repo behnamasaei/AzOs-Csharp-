@@ -1,0 +1,15 @@
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 8\bin\Debug\net6.0\Assignment 8.exe
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 8\bin\Debug\net6.0\Assignment 8.deps.json
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 8\bin\Debug\net6.0\Assignment 8.runtimeconfig.json
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 8\bin\Debug\net6.0\Assignment 8.dll
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 8\bin\Debug\net6.0\ref\Assignment 8.dll
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 8\bin\Debug\net6.0\Assignment 8.pdb
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 8\obj\Debug\net6.0\Assignment 8.csproj.AssemblyReference.cache
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 8\obj\Debug\net6.0\Assignment 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 8\obj\Debug\net6.0\Assignment 8.AssemblyInfoInputs.cache
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 8\obj\Debug\net6.0\Assignment 8.AssemblyInfo.cs
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 8\obj\Debug\net6.0\Assignment 8.csproj.CoreCompileInputs.cache
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 8\obj\Debug\net6.0\Assignment 8.dll
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 8\obj\Debug\net6.0\ref\Assignment 8.dll
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 8\obj\Debug\net6.0\Assignment 8.pdb
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 8\obj\Debug\net6.0\Assignment 8.genruntimeconfig.cache
