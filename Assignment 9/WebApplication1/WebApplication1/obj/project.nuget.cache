@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FxxzfXG0RVDuUZ90pr5nL1fH7cufeEBHaltkacehYCN0O7S3t6IHHioy9SWCLN7e5H/tgEDZ4RRAFdR+vbqokA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\behnam\\source\\repos\\AzOs-Python-\\Assignment 9\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\behnam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
