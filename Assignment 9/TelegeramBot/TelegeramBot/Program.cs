@@ -30,7 +30,7 @@ namespace TelegeramBot
 
         static async Task Main(string[] args)
         {
-            TelegramBotClient botClient = new TelegramBotClient("2134919715:AAElbeHWy94oAnwDGVGgcuqRwsLLVXUIRsc");
+            TelegramBotClient botClient = new TelegramBotClient({Token_API});
             var update = new Update();
             using var cts = new CancellationTokenSource();
 
