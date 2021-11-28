@@ -1,0 +1,100 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\behnam\\source\\repos\\AzOs-Python-\\Assignment 9\\TelegeramBot\\TelegeramBot\\TelegeramBot.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\behnam\\source\\repos\\AzOs-Python-\\Assignment 9\\TelegeramBot\\TelegeramBot\\TelegeramBot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\behnam\\source\\repos\\AzOs-Python-\\Assignment 9\\TelegeramBot\\TelegeramBot\\TelegeramBot.csproj",
+        "projectName": "TelegeramBot",
+        "projectPath": "C:\\Users\\behnam\\source\\repos\\AzOs-Python-\\Assignment 9\\TelegeramBot\\TelegeramBot\\TelegeramBot.csproj",
+        "packagesPath": "C:\\Users\\behnam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\behnam\\source\\repos\\AzOs-Python-\\Assignment 9\\TelegeramBot\\TelegeramBot\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages",
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\behnam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WinForms.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WPF.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "NAudio.Lame": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "QRCoder": {
+              "target": "Package",
+              "version": "[1.4.2, )"
+            },
+            "System.Speech": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Telegram.Bot": {
+              "target": "Package",
+              "version": "[17.0.0, )"
+            },
+            "Telegram.Bot.Extensions.Polling": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.12, 5.0.12]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

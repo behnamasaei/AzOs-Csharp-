@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "fUZoPOgEZyAFpZ5jhL1s8KeU4gAGqDM/g5W69cqT8trmgYgXdQwZSrDXt6GnInn9YlNE0Y1iFTJE/vSdQZURBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\behnam\\source\\repos\\AzOs-Python-\\Assignment 9\\TelegeramBot\\TelegeramBot\\TelegeramBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\behnam\\.nuget\\packages\\jetbrains.annotations\\2021.3.0\\jetbrains.annotations.2021.3.0.nupkg.sha512",
+    "C:\\Users\\behnam\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\behnam\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\behnam\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\behnam\\.nuget\\packages\\naudio.core\\2.0.0\\naudio.core.2.0.0.nupkg.sha512",
+    "C:\\Users\\behnam\\.nuget\\packages\\naudio.lame\\2.0.0\\naudio.lame.2.0.0.nupkg.sha512",
+    "C:\\Users\\behnam\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\behnam\\.nuget\\packages\\qrcoder\\1.4.2\\qrcoder.1.4.2.nupkg.sha512",
+    "C:\\Users\\behnam\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\behnam\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\behnam\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\behnam\\.nuget\\packages\\system.speech\\6.0.0\\system.speech.6.0.0.nupkg.sha512",
+    "C:\\Users\\behnam\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\Users\\behnam\\.nuget\\packages\\telegram.bot\\17.0.0\\telegram.bot.17.0.0.nupkg.sha512",
+    "C:\\Users\\behnam\\.nuget\\packages\\telegram.bot.extensions.polling\\1.0.0\\telegram.bot.extensions.polling.1.0.0.nupkg.sha512",
+    "C:\\Users\\behnam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
