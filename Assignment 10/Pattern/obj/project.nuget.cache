@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "618t8W3D26rxbU0kdaAe4jYKNc9mrL/9pU3D7ix2y6RgdZLj8x4oP4HRH36EEkN5NQk2+PBQAME43sBOG1OL7A==",
+  "success": true,
+  "projectFilePath": "F:\\Az os-Lab\\Assignment 10\\Pattern\\Pattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\behna\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\behna\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\behna\\.nuget\\packages\\microsoft.netcore.app.runtime.osx-x64\\3.1.21\\microsoft.netcore.app.runtime.osx-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\behna\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.osx-x64\\3.1.21\\microsoft.aspnetcore.app.runtime.osx-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\behna\\.nuget\\packages\\microsoft.netcore.app.host.osx-x64\\3.1.21\\microsoft.netcore.app.host.osx-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

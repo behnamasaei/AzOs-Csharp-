@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"F:/Az os-Lab/Assignment 10/Pattern/Content/blue.png","F:/Az os-Lab/Assignment 10/Pattern/Content/bin/DesktopGL/Content/blue.xnb","TextureProcessor","Texture2DContent",1685,160085,0.2173853
+"F:/Az os-Lab/Assignment 10/Pattern/Content/red.png","F:/Az os-Lab/Assignment 10/Pattern/Content/bin/DesktopGL/Content/red.xnb","TextureProcessor","Texture2DContent",2000,160085,0.012774
