@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"F:/Az os-Lab/Assignment 11/snake/Content/apple.png","F:/Az os-Lab/Assignment 11/snake/Content/bin/DesktopGL/Content/apple.xnb","TextureProcessor","Texture2DContent",5411,202585,0.2602241
+"F:/Az os-Lab/Assignment 11/snake/Content/font.spritefont","F:/Az os-Lab/Assignment 11/snake/Content/bin/DesktopGL/Content/font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0.1643425
+"F:/Az os-Lab/Assignment 11/snake/Content/gameover.png","F:/Az os-Lab/Assignment 11/snake/Content/bin/DesktopGL/Content/gameover.xnb","TextureProcessor","Texture2DContent",19997,1048661,0.0521029
+"F:/Az os-Lab/Assignment 11/snake/Content/pear.png","F:/Az os-Lab/Assignment 11/snake/Content/bin/DesktopGL/Content/pear.xnb","TextureProcessor","Texture2DContent",4246,202585,0.0148472
+"F:/Az os-Lab/Assignment 11/snake/Content/pile.png","F:/Az os-Lab/Assignment 11/snake/Content/bin/DesktopGL/Content/pile.xnb","TextureProcessor","Texture2DContent",46622,3312085,0.1599305

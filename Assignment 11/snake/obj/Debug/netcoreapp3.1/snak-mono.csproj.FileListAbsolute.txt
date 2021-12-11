@@ -1,0 +1,89 @@
+C:\Users\behna\Desktop\snak-mono\bin\Debug\netcoreapp3.1\snak-mono.exe
+C:\Users\behna\Desktop\snak-mono\bin\Debug\netcoreapp3.1\snak-mono.deps.json
+C:\Users\behna\Desktop\snak-mono\bin\Debug\netcoreapp3.1\snak-mono.runtimeconfig.json
+C:\Users\behna\Desktop\snak-mono\bin\Debug\netcoreapp3.1\snak-mono.runtimeconfig.dev.json
+C:\Users\behna\Desktop\snak-mono\bin\Debug\netcoreapp3.1\snak-mono.dll
+C:\Users\behna\Desktop\snak-mono\bin\Debug\netcoreapp3.1\snak-mono.pdb
+C:\Users\behna\Desktop\snak-mono\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\behna\Desktop\snak-mono\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\behna\Desktop\snak-mono\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\behna\Desktop\snak-mono\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\behna\Desktop\snak-mono\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\behna\Desktop\snak-mono\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\behna\Desktop\snak-mono\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\behna\Desktop\snak-mono\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\behna\Desktop\snak-mono\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\behna\Desktop\snak-mono\obj\Debug\netcoreapp3.1\snak-mono.csproj.AssemblyReference.cache
+C:\Users\behna\Desktop\snak-mono\obj\Debug\netcoreapp3.1\snak-mono.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\behna\Desktop\snak-mono\obj\Debug\netcoreapp3.1\snak-mono.AssemblyInfoInputs.cache
+C:\Users\behna\Desktop\snak-mono\obj\Debug\netcoreapp3.1\snak-mono.AssemblyInfo.cs
+C:\Users\behna\Desktop\snak-mono\obj\Debug\netcoreapp3.1\snak-mono.csproj.CoreCompileInputs.cache
+C:\Users\behna\Desktop\snak-mono\obj\Debug\netcoreapp3.1\snak-mono.csproj.CopyComplete
+C:\Users\behna\Desktop\snak-mono\obj\Debug\netcoreapp3.1\snak-mono.dll
+C:\Users\behna\Desktop\snak-mono\obj\Debug\netcoreapp3.1\snak-mono.pdb
+C:\Users\behna\Desktop\snak-mono\obj\Debug\netcoreapp3.1\snak-mono.genruntimeconfig.cache
+C:\Users\behna\Desktop\snak-mono\bin\Debug\netcoreapp3.1\Content\font.xnb
+F:\Az os-Lab\Assignment 10\bin\Debug\netcoreapp3.1\Content\font.xnb
+F:\Az os-Lab\Assignment 10\bin\Debug\netcoreapp3.1\snak-mono.exe
+F:\Az os-Lab\Assignment 10\bin\Debug\netcoreapp3.1\snak-mono.deps.json
+F:\Az os-Lab\Assignment 10\bin\Debug\netcoreapp3.1\snak-mono.runtimeconfig.json
+F:\Az os-Lab\Assignment 10\bin\Debug\netcoreapp3.1\snak-mono.runtimeconfig.dev.json
+F:\Az os-Lab\Assignment 10\bin\Debug\netcoreapp3.1\snak-mono.dll
+F:\Az os-Lab\Assignment 10\bin\Debug\netcoreapp3.1\snak-mono.pdb
+F:\Az os-Lab\Assignment 10\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+F:\Az os-Lab\Assignment 10\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+F:\Az os-Lab\Assignment 10\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+F:\Az os-Lab\Assignment 10\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+F:\Az os-Lab\Assignment 10\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+F:\Az os-Lab\Assignment 10\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+F:\Az os-Lab\Assignment 10\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+F:\Az os-Lab\Assignment 10\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+F:\Az os-Lab\Assignment 10\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+F:\Az os-Lab\Assignment 10\obj\Debug\netcoreapp3.1\snak-mono.csproj.AssemblyReference.cache
+F:\Az os-Lab\Assignment 10\obj\Debug\netcoreapp3.1\snak-mono.GeneratedMSBuildEditorConfig.editorconfig
+F:\Az os-Lab\Assignment 10\obj\Debug\netcoreapp3.1\snak-mono.AssemblyInfoInputs.cache
+F:\Az os-Lab\Assignment 10\obj\Debug\netcoreapp3.1\snak-mono.AssemblyInfo.cs
+F:\Az os-Lab\Assignment 10\obj\Debug\netcoreapp3.1\snak-mono.csproj.CoreCompileInputs.cache
+F:\Az os-Lab\Assignment 10\obj\Debug\netcoreapp3.1\snak-mono.csproj.CopyComplete
+F:\Az os-Lab\Assignment 10\obj\Debug\netcoreapp3.1\snak-mono.dll
+F:\Az os-Lab\Assignment 10\obj\Debug\netcoreapp3.1\snak-mono.pdb
+F:\Az os-Lab\Assignment 10\obj\Debug\netcoreapp3.1\snak-mono.genruntimeconfig.cache
+F:\Az os-Lab\Assignment 10\bin\Debug\netcoreapp3.1\Content\pear.xnb
+F:\Az os-Lab\Assignment 10\bin\Debug\netcoreapp3.1\Lidgren.Network.dll
+F:\Az os-Lab\Assignment 10\bin\Debug\netcoreapp3.1\MonoGame.Framework.Content.Pipeline.dll
+F:\Az os-Lab\Assignment 10\bin\Debug\netcoreapp3.1\MonoGame.Framework.Net.dll
+F:\Az os-Lab\Assignment 10\bin\Debug\netcoreapp3.1\Content\pile.xnb
+F:\Az os-Lab\Assignment 10\bin\Debug\netcoreapp3.1\Content\apple.xnb
+F:\Az os-Lab\Assignment 10\bin\Debug\netcoreapp3.1\Content\gameover.xnb
+F:\Az os-Lab\Assignment 11\snake\bin\Debug\netcoreapp3.1\Content\apple.xnb
+F:\Az os-Lab\Assignment 11\snake\bin\Debug\netcoreapp3.1\Content\font.xnb
+F:\Az os-Lab\Assignment 11\snake\bin\Debug\netcoreapp3.1\Content\gameover.xnb
+F:\Az os-Lab\Assignment 11\snake\bin\Debug\netcoreapp3.1\Content\pear.xnb
+F:\Az os-Lab\Assignment 11\snake\bin\Debug\netcoreapp3.1\Content\pile.xnb
+F:\Az os-Lab\Assignment 11\snake\bin\Debug\netcoreapp3.1\snak-mono.exe
+F:\Az os-Lab\Assignment 11\snake\bin\Debug\netcoreapp3.1\snak-mono.deps.json
+F:\Az os-Lab\Assignment 11\snake\bin\Debug\netcoreapp3.1\snak-mono.runtimeconfig.json
+F:\Az os-Lab\Assignment 11\snake\bin\Debug\netcoreapp3.1\snak-mono.runtimeconfig.dev.json
+F:\Az os-Lab\Assignment 11\snake\bin\Debug\netcoreapp3.1\snak-mono.dll
+F:\Az os-Lab\Assignment 11\snake\bin\Debug\netcoreapp3.1\snak-mono.pdb
+F:\Az os-Lab\Assignment 11\snake\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+F:\Az os-Lab\Assignment 11\snake\bin\Debug\netcoreapp3.1\Lidgren.Network.dll
+F:\Az os-Lab\Assignment 11\snake\bin\Debug\netcoreapp3.1\MonoGame.Framework.Content.Pipeline.dll
+F:\Az os-Lab\Assignment 11\snake\bin\Debug\netcoreapp3.1\MonoGame.Framework.Net.dll
+F:\Az os-Lab\Assignment 11\snake\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+F:\Az os-Lab\Assignment 11\snake\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+F:\Az os-Lab\Assignment 11\snake\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+F:\Az os-Lab\Assignment 11\snake\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+F:\Az os-Lab\Assignment 11\snake\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+F:\Az os-Lab\Assignment 11\snake\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+F:\Az os-Lab\Assignment 11\snake\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+F:\Az os-Lab\Assignment 11\snake\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+F:\Az os-Lab\Assignment 11\snake\obj\Debug\netcoreapp3.1\snak-mono.csproj.AssemblyReference.cache
+F:\Az os-Lab\Assignment 11\snake\obj\Debug\netcoreapp3.1\snak-mono.GeneratedMSBuildEditorConfig.editorconfig
+F:\Az os-Lab\Assignment 11\snake\obj\Debug\netcoreapp3.1\snak-mono.AssemblyInfoInputs.cache
+F:\Az os-Lab\Assignment 11\snake\obj\Debug\netcoreapp3.1\snak-mono.AssemblyInfo.cs
+F:\Az os-Lab\Assignment 11\snake\obj\Debug\netcoreapp3.1\snak-mono.csproj.CoreCompileInputs.cache
+F:\Az os-Lab\Assignment 11\snake\obj\Debug\netcoreapp3.1\snak-mono.csproj.CopyComplete
+F:\Az os-Lab\Assignment 11\snake\obj\Debug\netcoreapp3.1\snak-mono.dll
+F:\Az os-Lab\Assignment 11\snake\obj\Debug\netcoreapp3.1\snak-mono.pdb
+F:\Az os-Lab\Assignment 11\snake\obj\Debug\netcoreapp3.1\snak-mono.genruntimeconfig.cache
