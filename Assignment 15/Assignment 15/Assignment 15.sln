@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "symmetrical", "symmetrical\symmetrical.csproj", "{044F1020-7021-421A-8F0F-FF1A0F00B135}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KhayamPascal", "KhayamPascal\KhayamPascal.csproj", "{9B299974-A776-4B5A-86BC-92FD523692A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{044F1020-7021-421A-8F0F-FF1A0F00B135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{044F1020-7021-421A-8F0F-FF1A0F00B135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{044F1020-7021-421A-8F0F-FF1A0F00B135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{044F1020-7021-421A-8F0F-FF1A0F00B135}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B299974-A776-4B5A-86BC-92FD523692A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B299974-A776-4B5A-86BC-92FD523692A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B299974-A776-4B5A-86BC-92FD523692A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B299974-A776-4B5A-86BC-92FD523692A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C659F80A-6903-47D7-A430-73E83E234854}
+	EndGlobalSection
+EndGlobal
